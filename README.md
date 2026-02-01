@@ -79,12 +79,14 @@ El bot solo responde a **administradores autorizados**, garantizando seguridad y
 
 ---
 
-## 📞 Contacto, Contratación y Soporte
+## 📞 Contacto, Contratar y Soporte
 
-✈️ **Telegram:** @FacuGlitch
+¿Tienes dudas, sugerencias o necesitas ayuda? ¡Hablemos!
+
+- **Telegram:** [@FacuGlitch](https://t.me/FacuGlitch)
 
 ---
 
 ## ❤️ Créditos
 
-Desarrollado con ❤️ por **@BotNovedades**.
+Desarrollado con amor y esmero por **[@BotNovedades](https://t.me/BotNovedades)**.
